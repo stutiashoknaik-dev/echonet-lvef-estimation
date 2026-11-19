@@ -19,7 +19,7 @@ This module:
 4. Marks adaptive ED / ES frames
 5. Saves publication-quality figures
 
-Author: ChatGPT + Stuti
+
 """
 
 import os
