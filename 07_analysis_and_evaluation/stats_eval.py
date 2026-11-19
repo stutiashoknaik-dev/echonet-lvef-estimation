@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Statistical evaluation of LVEF predictions for the manuscript (Tables 7-8, AUC, Wilcoxon, fallback).
+Statistical evaluation of LVEF predictions for the (Tables 7-8, AUC, Wilcoxon, fallback).
 
 Input CSVs (one row per test video), required columns:
     video_id, ef_true, ef_pred
